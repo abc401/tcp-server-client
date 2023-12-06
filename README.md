@@ -1,3 +1,3 @@
 # Introduction
 
-A basic TCP server and client that can send data to each other.
+A basic TCP server and client that can send messages to each other.
